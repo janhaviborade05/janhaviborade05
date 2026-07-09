@@ -143,7 +143,7 @@ Guiding peers through their first open-source contributions — issue triage, PR
 
 <a href="https://github.com/janhaviborade05"><img src="https://img.shields.io/badge/GitHub-9B7A93?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/janhavi-borade-760874383"><img src="https://img.shields.io/badge/LinkedIn-D4A5A5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:boradejanhavi36@gmail.com"><img src="https://img.shields.io/badge/Email-F5C6D0?style=for-the-badge&logo=gmail&logoColor=5A4352"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=boradejanhavi36@gmail.com"><img src="https://img.shields.io/badge/Email-F5C6D0?style=for-the-badge&logo=gmail&logoColor=5A4352"/></a>
 
 <br/><br/>
 
