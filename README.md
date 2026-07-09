@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C6D0,100:9B7A93&height=190&section=header&text=Janhavi%20Borade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=9B7A93&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+%40+K.K.+Wagh+Institute;GSSoC+2026+Contributor+%2B+Campus+Ambassador;Building+clean%2C+well-documented+code" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=9B7A93&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+Student;GSSoC+2026+Contributor+%2B+Campus+Ambassador;Building+clean%2C+well-documented+code" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ### 🌸 About
 
-I'm a first-year Computer Engineering student at **K. K. Wagh Institute of Engineering Education and Research** (SPPU), currently contributing to the open-source ecosystem through **GSSoC 2026**, where I serve as both a Contributor and Campus Ambassador on the Open Source Track.
+I'm a first-year Computer Engineering student, currently contributing to the open-source ecosystem through **GSSoC 2026**, where I serve as both a Contributor and Campus Ambassador on the Open Source Track.
 
 I care more about understanding a problem thoroughly than shipping the fastest fix — every PR I open, I've read the surrounding code first.
 
@@ -142,8 +142,8 @@ Guiding peers through their first open-source contributions — issue triage, PR
 ### 💌 Connect
 
 <a href="https://github.com/janhaviborade05"><img src="https://img.shields.io/badge/GitHub-9B7A93?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-D4A5A5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-F5C6D0?style=for-the-badge&logo=gmail&logoColor=5A4352"/></a>
+<a href="https://www.linkedin.com/in/janhavi-borade-760874383"><img src="https://img.shields.io/badge/LinkedIn-D4A5A5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:boradejanhavi36@gmail.com"><img src="https://img.shields.io/badge/Email-F5C6D0?style=for-the-badge&logo=gmail&logoColor=5A4352"/></a>
 
 <br/><br/>
 
