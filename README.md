@@ -125,6 +125,14 @@ Guiding peers through their first open-source contributions — issue triage, PR
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhaviborade05&layout=compact&hide_border=true&title_color=9B7A93&text_color=5A4352&bg_color=00000000&langs_count=8" width="45%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janhaviborade05&bg_color=00000000&color=9B7A93&line=D4A5A5&point=F5C6D0&area=true&hide_border=true&area_color=F5C6D0" width="90%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/janhaviborade05/janhaviborade05/output/github-contribution-grid-snake.svg" width="90%"/>
+
 </div>
 
 <br/>
